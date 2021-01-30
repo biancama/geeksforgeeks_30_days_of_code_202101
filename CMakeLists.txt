@@ -3,4 +3,4 @@ project(30_days_of_code_202101)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(30_days_of_code_202101 main.cpp)
+add_executable(30_days_of_code_202101 main.cpp day_04/day04.cpp)
