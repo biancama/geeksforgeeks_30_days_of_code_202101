@@ -3,4 +3,4 @@ project(30_days_of_code_202101)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(30_days_of_code_202101 main.cpp day_04/day04.cpp day_05_Spiral_Matrix/day05.cpp)
+add_executable(30_days_of_code_202101 main.cpp day_04/day04.cpp day_05_Spiral_Matrix/day05.cpp day_06_Coins_of_Geekland/day06.cpp)
